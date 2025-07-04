@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @21qtrs
 - 👀 I’m interested in learning stuff
-- 🌱 I’m currently learning github, Docker, and ML
+- 🌱 I’m currently learning github, Docker, iOS App Dev, and ML
 - 💞️ I’m looking to collaborate on ¯\\\_(ツ)_/¯
 - 📫 How to reach me also ¯\\\_(ツ)_/¯
 
